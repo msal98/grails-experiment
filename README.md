@@ -1,4 +1,4 @@
 grails-experiment
 =================
 
-Playing around with grails
+I have bootstrapped the project with the grails wrapper.
